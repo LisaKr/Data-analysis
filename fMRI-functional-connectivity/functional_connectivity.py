@@ -17,10 +17,10 @@ import nipype.interfaces.afni as afni
 
 rois = []  
 
-rois.append((30,-21,-18)),
-rois.append((-30,-21,-18)),
-rois.append((30,9,-30)),
-rois.append((-30,9,-30)),
+#rois.append((30,-21,-18)),
+#rois.append((-30,-21,-18)),
+#rois.append((30,9,-30)),
+#rois.append((-30,9,-30)),
 
 #subjects = os.listdir("/scr/kalifornien1/data/nki_enhanced/preprocessed_fmri/structural/asymmetric/")
 
